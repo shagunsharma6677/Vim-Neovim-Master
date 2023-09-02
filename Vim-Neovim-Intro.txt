@@ -1,0 +1,12 @@
+My name is Shagun and this is my first vim file
+
+To quit from vim we use follow command
+
+--> :q (if we wany to quit with out making any change in file)
+--> :q! (if we want to quit file without saving any changes)
+--> :wq! (if we want to save changes before quiting the vim)
+
+--> Modes in Vim
+--->>> Insert Mode (Keyword "i")
+--->>> Visual Mode (Keyword "v)
+--->>> Command Mode (Keyword "Esc")
