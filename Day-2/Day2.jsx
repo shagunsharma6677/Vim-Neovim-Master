@@ -10,11 +10,7 @@ const Sidebar = ({ categoryFilter, onPriceFilterChange }) => {
               sapiente esse? Labore tenetur magnam sapiente ipsam pariatur
               itaqur, eucimus sint molestias ea doloremque praesentium autem
               animi! Asperiores() qui iusto() cupiditate() there["a,"b."c"]
-              
-              
-              doloremque libero quas ab labore dignissimos rerum nobis dolor
-              
-              assumenda rem pariatur, consectetur distinctio nostrum, minus
+              doloremque libero quas { } ab labore{ } dignissimos rerum nobis dolor
               suscipit cumque sequi architecto dolore! Suscipit alias voluptas
               repellendus eum deleniti distinctio corrupti quaerat est dolores
               sit doloremque, aliquam odio perspiciatis doloribus repellat amet!
