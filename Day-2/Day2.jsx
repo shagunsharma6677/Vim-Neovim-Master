@@ -5,7 +5,7 @@ const Sidebar = ({ categoryFilter, onPriceFilterChange }) => {
         <h2>
           <AccordionButton>
             <Box as="span" flex="1" textAlign="left">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem
+              Lorem ipsum 
               cum temporibus consequatur neque maxime eaque tenetur consectetur
               sapiente esse? Labore tenetur magnam sapiente ipsam pariatur
               itaqur, eucimus sint molestias ea doloremque praesentium autem
