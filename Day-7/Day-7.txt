@@ -1,0 +1,22 @@
+                     Day-7: EDITING A FILE
+
+                    ** Use  :wq  to save a file and exit. **
+
+  !! NOTE: Before executing any of the steps below, read this entire lesson!!
+
+  1.  If you have access to another terminal, do the following there.
+      Otherwise, exit this tutor as you did in lesson 1.2:  :q!
+
+  2. At the shell prompt type this command:  vim file.txt <ENTER>
+     'vim' is the command to start the Vim editor, 'file.txt' is the name of
+     the file you wish to edit.  Use the name of a file that you can change.
+
+  3. Insert and delete text as you learned in the previous lessons.
+
+  4. Save the file with changes and exit Vim with:  :wq <ENTER>
+
+  5. If you have quit vimtutor in step 1 restart the vimtutor and move down to
+     the following summary.
+
+  6. After reading the above steps and understanding them: do it.
+
